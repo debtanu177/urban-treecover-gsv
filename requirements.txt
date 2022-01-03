@@ -1,0 +1,7 @@
+numpy
+cv2
+flask
+plotly
+flask_cors
+pandas 
+matplotlib
